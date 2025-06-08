@@ -4,7 +4,7 @@ export default function Scripts() {
             <h1 className="text-center mb-4 page-header" >Scripts</h1>
             <div className="row p-5">
                 <div className="col-md-4">
-                    <div className="card bg-dark text-white shadow-lg">
+                    <div className="card bg-dark text-white ">
                         <img src="../images/lbs_pedshops_400.png" className="card-img-top" alt="Item 1" />
                         <div className="card-body">
                             <h5 className="card-title">lbs_pedshops</h5>
@@ -13,7 +13,7 @@ export default function Scripts() {
                     </div>
                 </div>
                 <div className="col-md-4">
-                    <div className="card bg-dark text-white shadow-lg">
+                    <div className="card bg-dark text-white ">
                         <img src="../images/lbs_admin_400.png" className="card-img-top" alt="Item 2" />
                         <div className="card-body">
                             <h5 className="card-title">lbs_admin</h5>
@@ -22,7 +22,7 @@ export default function Scripts() {
                     </div>
                 </div>
                 <div className="col-md-4">
-                    <div className="card bg-dark text-white shadow-lg">
+                    <div className="card bg-dark text-white ">
                         <img src="../images/lbs_drugrun_400.png" className="card-img-top" alt="Item 3" />
                         <div className="card-body">
                             <h5 className="card-title">lbs_drugrun</h5>
@@ -33,7 +33,7 @@ export default function Scripts() {
             </div>
             {/* <div className="row p-5">
                 <div className="col-md-4">
-                    <div className="card bg-dark text-white shadow-lg">
+                    <div className="card bg-dark text-white ">
                         <img src="https://placehold.co/400" className="card-img-top" alt="Item 3" />
                         <div className="card-body">
                             <h5 className="card-title">lbs_billing</h5>

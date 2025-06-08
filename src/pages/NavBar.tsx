@@ -33,6 +33,11 @@ export default function Navbar() {
                         </NavLink>
                     </li>
                     <li className="nav-item">
+                        <NavLink className="nav-link text-white" to="/projects">
+                            Projects
+                        </NavLink>
+                    </li>
+                    <li className="nav-item">
                         <NavLink className="nav-link text-white" to="/about">
                             About
                         </NavLink>

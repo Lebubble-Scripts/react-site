@@ -1,6 +1,5 @@
 import { SiKofi } from 'react-icons/si';
 import { CiCoffeeCup } from 'react-icons/ci';
-import { MdLocalGroceryStore } from "react-icons/md";
 import { FaGithub } from "react-icons/fa";
 import { SiGitbook } from "react-icons/si";
 import { FaDiscord } from "react-icons/fa";
@@ -64,15 +63,6 @@ export default function Footer(){
                                 rel="noopener noreferrer"
                             >
                                 <CiCoffeeCup size={32} /> Buy Me a Coffee
-                            </a>
-                        </li>
-                        <li>
-                            <a  className = 'btn btn-primary fw-bold'
-                                href="https://lebubble-scripts.tebex.io/"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                <MdLocalGroceryStore size={32}/> Tebex
                             </a>
                         </li>
                     </ul>

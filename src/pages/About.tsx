@@ -30,7 +30,7 @@ export default function About() {
                             <br /><br />
                             My goal is to create digital experiences that meet real needs while connecting with people on a human level. Every line of code is a step towards making that vision a reality.
                             <br /><br />
-                            My current focus in on developing custom scripts and contributing to Project Sloth.
+                            My current focus in on developing custom scripts for QBCore and contributing to Project Sloth.
                             <br /><br />
 
                             <br /><br />

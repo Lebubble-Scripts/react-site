@@ -192,6 +192,12 @@ a.btn:hover, #header-text:hover, .logo-link:hover {
 }
 
 
+.download-button {
+  left: 50%;
+}
+
+
+
 /* Projects Styling */
 #ps-header {
   padding:2vh;
